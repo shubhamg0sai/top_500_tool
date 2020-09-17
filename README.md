@@ -23,6 +23,23 @@ Github.   : https://github.com/shubhamggosai
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
 
+- [SMSbomber](https://github.com/shubhamggosai/SMSbomber)
+- [wordlist-creater](https://github.com/shubhamggosai/wordlist-creater)
+- [millionpass.txt](https://github.com/shubhamggosai/millionpass.txt)
+- [wifi-passlist](https://github.com/shubhamggosai/wifi-passlist)
+- [hack-wifi](https://github.com/shubhamggosai/hack-wifi)
+- [reportbug](https://github.com/shubhamggosai/reportbug)
+- [trace-ip](https://github.com/shubhamggosai/trace-ip)
+- [virous](https://github.com/shubhamggosai/virous)
+- [Locate](https://github.com/shubhamggosai/Locate)
+- [Indian-passlist](https://github.com/shubhamggosai/Indian-passlist)
+- [sudo_for_termux](https://github.com/shubhamggosai/sudo_for_termux)
+- [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack)
+- [rootkalilinux-termux](https://github.com/shubhamggosai/rootkalilinux-termux)
+- [rootubantu-termux](https://github.com/shubhamggosai/rootubantu-termux)
+- [termux-Arch](https://github.com/shubhamggosai/termux_Arch)
+- [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit)
+- [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack)
 - [Fbbrute](https://github.com/shubhamggosai/Fbbrute) - brute Force attack for Facebook 
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering.[![->](https://img.shields.io/github/stars/thewhiteh4t/seeker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thewhiteh4t/seeker/stargazers/)
 - [ANDRAX](https://andrax.thecrackertechnology.com/download) - ANDRAX is a Penetration Testing platform developed specifically for Android smartphones, ANDRAX has the ability to run natively on Android so it behaves like a common Linux distribution, But more powerful than a common distribution![![->](https://img.shields.io/andrax.thecrackertechnology.com/download.svg?style=social&label=Star&maxAge=2592000)](https://andrax.thecrackertechnology.com/download/stargazers/)
