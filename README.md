@@ -23,22 +23,22 @@ Github.   : https://github.com/shubhamggosai
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
 
-- [SMSbomber](https://github.com/shubhamggosai/SMSbomber)
-- [wordlist-creater](https://github.com/shubhamggosai/wordlist-creater)
-- [millionpass.txt](https://github.com/shubhamggosai/millionpass.txt)
+- [SMSbomber](https://github.com/shubhamggosai/SMSbomber) - international or national fake sms bombing or call bombing
+- [wordlist-creater](https://github.com/shubhamggosai/wordlist-creater) - create a Wordlist or passlist fo any brute Force attack
+- [millionpass.txt](https://github.com/shubhamggosai/millionpass.txt) - top 100k or million of password list
 - [wifi-passlist](https://github.com/shubhamggosai/wifi-passlist)
-- [hack-wifi](https://github.com/shubhamggosai/hack-wifi)
+- [hack-wifi](https://github.com/shubhamggosai/hack-wifi) - hack any  wifi network from your device range
 - [reportbug](https://github.com/shubhamggosai/reportbug)
-- [trace-ip](https://github.com/shubhamggosai/trace-ip)
-- [virous](https://github.com/shubhamggosai/virous)
-- [Locate](https://github.com/shubhamggosai/Locate)
+- [trace-ip](https://github.com/shubhamggosai/trace-ip) - trace your own ip and Target ip
+- [virous](https://github.com/shubhamggosai/virous) - phishing virous
+- [Locate](https://github.com/shubhamggosai/Locate) 
 - [Indian-passlist](https://github.com/shubhamggosai/Indian-passlist)
 - [sudo_for_termux](https://github.com/shubhamggosai/sudo_for_termux)
 - [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack)
 - [rootkalilinux-termux](https://github.com/shubhamggosai/rootkalilinux-termux)
 - [rootubantu-termux](https://github.com/shubhamggosai/rootubantu-termux)
 - [termux-Arch](https://github.com/shubhamggosai/termux_Arch)
-- [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit)
+- [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit) - all in one tool for Facebook
 - [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack)
 - [Fbbrute](https://github.com/shubhamggosai/Fbbrute) - brute Force attack for Facebook 
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering.[![->](https://img.shields.io/github/stars/thewhiteh4t/seeker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thewhiteh4t/seeker/stargazers/)
