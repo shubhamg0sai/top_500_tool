@@ -22,7 +22,8 @@ Instagram : https://www.instagram.com/shubham_g0sain/?hl=en
 Github.   : https://github.com/shubhamggosai
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
-- [Fbbrute](https://github.com/shubhamggosai/Fbbrute) 
+
+- [Fbbrute](https://github.com/shubhamggosai/Fbbrute) - brute Force attack for Facebook 
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering.[![->](https://img.shields.io/github/stars/thewhiteh4t/seeker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thewhiteh4t/seeker/stargazers/)
 - [ANDRAX](https://andrax.thecrackertechnology.com/download) - ANDRAX is a Penetration Testing platform developed specifically for Android smartphones, ANDRAX has the ability to run natively on Android so it behaves like a common Linux distribution, But more powerful than a common distribution![![->](https://img.shields.io/andrax.thecrackertechnology.com/download.svg?style=social&label=Star&maxAge=2592000)](https://andrax.thecrackertechnology.com/download/stargazers/)
 - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.[![->](https://img.shields.io/github/stars/Edu4rdSHL/findomain.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Edu4rdSHL/findomain/stargazers/)
