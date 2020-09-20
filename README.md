@@ -34,7 +34,6 @@ https://t.me/ShuBham_g0sain
 - [wifi-passlist](https://github.com/shubhamggosai/wifi-passlist)
 - [hack-wifi](https://github.com/shubhamggosai/hack-wifi) - hack any  wifi network from your device range
 - [reportbug](https://github.com/shubhamggosai/reportbug)
-- [trace-ip](https://github.com/shubhamggosai/trace-ip) - trace your own ip and Target ip
 - [virous](https://github.com/shubhamggosai/virous) - phishing virous
 - [Locate](https://github.com/shubhamggosai/Locate) 
 - [Indian-passlist](https://github.com/shubhamggosai/Indian-passlist)
