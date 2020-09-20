@@ -1,7 +1,6 @@
 # termux_All_hacking_tool
 This is only for information about top hacking tools in termux
 
-
 ### FIND...ME.
 
 
@@ -22,6 +21,10 @@ Instagram : https://www.instagram.com/shubham_g0sain/?hl=en
 Github.   : https://github.com/shubhamggosai
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
+
+Telegram :
+https://t.me/ShuBham_g0sain
+
 
 - [SMSbomber](https://github.com/shubhamggosai/SMSbomber) - international or national fake sms bombing or call bombing
 - [wordlist-creater](https://github.com/shubhamggosai/wordlist-creater) - create a Wordlist or passlist fo any brute Force attack
