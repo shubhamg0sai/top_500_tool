@@ -5,11 +5,21 @@ This is only for information about top hacking tools in termux
 FIND...ME.
 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
-- [increase instagram followers](https://github.com/ShuBhamg0sain/Increase-Instagram-followers)
-- [instareport](https://github.com/ShuBhamg0sain/instareport)
-- [instagram-automation](https://github.com/ShuBhamg0sain/instagram-automation)
-- [wifi hack](https://github.com/ShuBhamg0sain/hack-wifi)
-- [phone number tracker](https://github.com/ShuBhamg0sain/phone-number-tracker)
+
+
+
+
+- [increase instagram followers](https://github.com/ShuBhamg0sain/Increase-Instagram-followers) - increase your followers, like views
+- [instareport](https://github.com/ShuBhamg0sain/instareport) - report user on instagram
+- [instagram-automation](https://github.com/ShuBhamg0sain/instagram-automation) - a bot application for instagram which is fully automatic
+- [phone number tracker](https://github.com/ShuBhamg0sain/phone-number-tracker) - information gathering tool for phone number 
+- [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit) - all in one tool for Facebook
+- [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack)
+- [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack)
+- [virous version 2](https://github.com/ShuBhamg0sain/virous) - virous version 2
+- [kali nethunter](https://github.com/ShuBhamg0sain/kalilinux) - @rootkali..
+- [ip Changer](https://github.com/ShuBhamg0sain/ip_changer) - change your Ip many times
+- [wifi hack](https://github.com/ShuBhamg0sain/hack-wifi) - hack WiFi monitor mode also ..
 - [hack cctv camera version 3](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
 - [trace-ip](https://github.com/ShuBhamg0sain/trace-ip) - trace your ip and trace target ip
 - [SMSbomber](https://github.com/shubhamggosai/SMSbomber) - international or national fake sms bombing or call bombing
@@ -22,12 +32,9 @@ FIND...ME.
 - [Locate](https://github.com/shubhamggosai/Locate) 
 - [Indian-passlist](https://github.com/shubhamggosai/Indian-passlist)
 - [sudo_for_termux](https://github.com/shubhamggosai/sudo_for_termux)
-- [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack)
 - [rootkalilinux-termux](https://github.com/shubhamggosai/rootkalilinux-termux)
 - [rootubantu-termux](https://github.com/shubhamggosai/rootubantu-termux)
 - [termux-Arch](https://github.com/shubhamggosai/termux_Arch)
-- [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit) - all in one tool for Facebook
-- [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack)
 - [Fbbrute](https://github.com/shubhamggosai/Fbbrute) - brute Force attack for Facebook 
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering.[![->](https://img.shields.io/github/stars/thewhiteh4t/seeker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thewhiteh4t/seeker/stargazers/)
 - [ANDRAX](https://andrax.thecrackertechnology.com/download) - ANDRAX is a Penetration Testing platform developed specifically for Android smartphones, ANDRAX has the ability to run natively on Android so it behaves like a common Linux distribution, But more powerful than a common distribution![![->](https://img.shields.io/andrax.thecrackertechnology.com/download.svg?style=social&label=Star&maxAge=2592000)](https://andrax.thecrackertechnology.com/download/stargazers/)
