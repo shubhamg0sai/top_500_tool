@@ -14,8 +14,8 @@ FIND...ME.
 - [instagram-automation](https://github.com/ShuBhamg0sain/instagram-automation) - a bot application for instagram which is fully automatic
 - [phone number tracker](https://github.com/ShuBhamg0sain/phone-number-tracker) - information gathering tool for phone number 
 - [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit) - all in one tool for Facebook
-- [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack)
-- [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack)
+- [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack) - hack facebook group
+- [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack) - information gathering tool for Facebook
 - [virous version 2](https://github.com/ShuBhamg0sain/virous) - virous version 2
 - [kali nethunter](https://github.com/ShuBhamg0sain/kalilinux) - @rootkali..
 - [ip Changer](https://github.com/ShuBhamg0sain/ip_changer) - change your Ip many times
