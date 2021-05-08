@@ -5,11 +5,11 @@ This is only for information about top hacking tools in termux
 FIND...ME.
 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
-- [increase instagram followers](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
-- [instareport](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
-- [instagram-automation](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
-- [wifi hack](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
-- [phone number tracker](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
+- [increase instagram followers](https://github.com/ShuBhamg0sain/Increase-Instagram-followers)
+- [instareport](https://github.com/ShuBhamg0sain/instareport)
+- [instagram-automation](https://github.com/ShuBhamg0sain/instagram-automation)
+- [wifi hack](https://github.com/ShuBhamg0sain/hack-wifi)
+- [phone number tracker](https://github.com/ShuBhamg0sain/phone-number-tracker)
 - [hack cctv camera version 3](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v.3)
 - [trace-ip](https://github.com/ShuBhamg0sain/trace-ip) - trace your ip and trace target ip
 - [SMSbomber](https://github.com/shubhamggosai/SMSbomber) - international or national fake sms bombing or call bombing
