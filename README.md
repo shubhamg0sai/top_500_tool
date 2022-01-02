@@ -3,35 +3,35 @@ This is only for information about top 500 + hacking tools in termux and Linux
 
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
-- [phone number tracker](https://github.com/ShuBhamg0sain/phone-number-tracker) - information gathering tool for phone number 
-- [GHOSTSPLOIT](https://github.com/ShuBhamg0sain/GHOSTSPLOIT).   Connect debug devices via ip
+
+- [phone number tracker](https://github.com/shubhamg0sai/phone-number-tracker) - information gathering tool for phone number 
+- [GHOSTSPLOIT](https://github.com/shubhamg0sai/GHOSTSPLOIT).   Connect debug devices via ip
 - [hack cctv camera version 3](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v3) - hack cam IP and ports 
-- [grow follow](https://github.com/ShuBhamg0sain/grow_follow).   Is a android app for increase your followers, like views        
-- [increase instagram followers](https://github.com/ShuBhamg0sain/Increase-Instagram-followers) - increase your followers, like views
-- [instareport](https://github.com/ShuBhamg0sain/instareport) - report user on instagram
-- [instagram-automation](https://github.com/ShuBhamg0sain/instagram-automation) - a bot application for instagram which is fully automatic
-- [Facebook-kit](https://github.com/shubhamggosai/Facebook-kit) - all in one tool for Facebook
-- [Facebook_group_hack](https://github.com/shubhamggosai/Facebook_group_hack) - hack facebook group
-- [Facebook_hack](https://github.com/shubhamggosai/Facebook_hack) - information gathering tool for Facebook
-- [virous version 2](https://github.com/ShuBhamg0sain/virous) - virous version 2
-- [kali nethunter](https://github.com/ShuBhamg0sain/kalilinux) - @rootkali..
-- [ip Changer](https://github.com/ShuBhamg0sain/ip_changer) - change your Ip many times
-- [wifi hack](https://github.com/ShuBhamg0sain/hack-wifi) - hack WiFi monitor mode also ..
-- [trace-ip](https://github.com/ShuBhamg0sain/trace-ip) - trace your ip and trace target ip
-- [SMSbomber](https://github.com/shubhamggosai/SMSbomber) - international or national fake sms bombing or call bombing
-- [wordlist-creater](https://github.com/shubhamggosai/wordlist-creater) - create a Wordlist or passlist fo any brute Force attack
-- [millionpass.txt](https://github.com/shubhamggosai/millionpass.txt) - top 100k or million of password list
-- [wifi-passlist](https://github.com/shubhamggosai/wifi-passlist)
-- [hack-wifi](https://github.com/shubhamggosai/hack-wifi) - hack any  wifi network from your device range
-- [reportbug](https://github.com/shubhamggosai/reportbug)
-- [virous](https://github.com/shubhamggosai/virous) - phishing virous
-- [Locate](https://github.com/shubhamggosai/Locate) 
-- [Indian-passlist](https://github.com/shubhamggosai/Indian-passlist)
-- [sudo_for_termux](https://github.com/shubhamggosai/sudo_for_termux)
-- [rootkalilinux-termux](https://github.com/shubhamggosai/rootkalilinux-termux)
-- [rootubantu-termux](https://github.com/shubhamggosai/rootubantu-termux)
-- [termux-Arch](https://github.com/shubhamggosai/termux_Arch)
-- [Fbbrute](https://github.com/shubhamggosai/Fbbrute) - brute Force attack for Facebook 
+- [increase instagram followers](https://github.com/shubhamg0sai/Increase-Instagram-followers) - increase your followers, like views
+- [instareport](https://github.com/shubhamg0sai/instareport) - report user on instagram
+- [instagram-automation](https://github.com/shubhamg0sai/instagram-automation) - a bot application for instagram which is fully automatic
+- [Facebook-kit](https://github.com/shubhamg0sai/Facebook-kit) - all in one tool for Facebook
+- [Facebook_group_hack](https://github.com/shubhamg0sai/Facebook_group_hack) - hack facebook group
+- [Facebook_hack](https://github.com/shubhamg0sai/Facebook_hack) - information gathering tool for Facebook
+- [virous version 2](https://github.com/shubhamg0sai/virous) - virous version 2
+- [kali nethunter](https://github.com/shubhamg0sai/kalilinux) - @rootkali..
+- [ip Changer](https://github.com/shubhamg0sai/ip_changer) - change your Ip many times
+- [wifi hack](https://github.com/shubhamg0sai/hack-wifi) - hack WiFi monitor mode also ..
+- [trace-ip](https://github.com/shubhamg0sai/trace-ip) - trace your ip and trace target ip
+- [SMSbomber](https://github.com/shubhamg0sai/SMSbomber) - international or national fake sms bombing or call bombing
+- [wordlist-creater](https://github.com/shubhamg0sai/wordlist-creater) - create a Wordlist or passlist fo any brute Force attack
+- [millionpass.txt](https://github.com/shubhamg0sai/millionpass.txt) - top 100k or million of password list
+- [wifi-passlist](https://github.com/shubhamg0sai/wifi-passlist)
+- [hack-wifi](https://github.com/shubhamg0sai/hack-wifi) - hack any  wifi network from your device range
+- [reportbug](https://github.com/shubhamg0sai/reportbug)
+- [virous](https://github.com/shubhamg0sai/virous) - phishing virous
+- [Locate](https://github.com/shubhamg0sai/Locate) 
+- [Indian-passlist](https://github.com/shubhamg0sai/Indian-passlist)
+- [sudo_for_termux](https://github.com/shubhamg0sai/sudo_for_termux)
+- [rootkalilinux-termux](https://github.com/shubhamg0sai/rootkalilinux-termux)
+- [rootubantu-termux](https://github.com/shubhamg0sai/rootubantu-termux)
+- [termux-Arch](https://github.com/shubhamg0sai/termux_Arch)
+- [Fbbrute](https://github.com/shubhamg0sai/Fbbrute) - brute Force attack for Facebook 
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering.[![->](https://img.shields.io/github/stars/thewhiteh4t/seeker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/thewhiteh4t/seeker/stargazers/)
 - [ANDRAX](https://andrax.thecrackertechnology.com/download) - ANDRAX is a Penetration Testing platform developed specifically for Android smartphones, ANDRAX has the ability to run natively on Android so it behaves like a common Linux distribution, But more powerful than a common distribution![![->](https://img.shields.io/andrax.thecrackertechnology.com/download.svg?style=social&label=Star&maxAge=2592000)](https://andrax.thecrackertechnology.com/download/stargazers/)
 - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.[![->](https://img.shields.io/github/stars/Edu4rdSHL/findomain.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Edu4rdSHL/findomain/stargazers/)
