@@ -3,7 +3,6 @@ This is only for information about top 500 + hacking tools in termux and Linux
 
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
-
 - [phone number tracker](https://github.com/shubhamg0sai/phone-number-tracker) - information gathering tool for phone number 
 - [GHOSTSPLOIT](https://github.com/shubhamg0sai/GHOSTSPLOIT).   Connect debug devices via ip
 - [hack cctv camera version 3](https://github.com/ShuBhamg0sain/Hack_CCTV_Cam-v3) - hack cam IP and ports 
