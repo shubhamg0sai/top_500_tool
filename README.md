@@ -1,7 +1,3 @@
-# termux_All_hacking_tool
-# increase instagram followers
-[![boost followers ](https://img.shields.io/badge/BOOST-FOLLOWERS-red?style=for-the-badge&logo=instagram)](https://t.me/boost_instagramfollowers)
-
 
 This is only for information about top 500 + hacking tools in termux and Linux
 
